@@ -1,0 +1,12 @@
+.env
+.env-test
+
+# Node
+node_modules/
+
+#Php
+vendor/
+
+bash.sh
+commit.txt
+
